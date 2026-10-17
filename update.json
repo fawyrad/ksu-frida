@@ -1,6 +1,6 @@
 {
-    "version": "v1.9.41",
-    "versionCode": 51,
-    "zipUrl": "https://github.com/gorkemgun/ksu-frida/releases/download/v1.9.41/KsuFrida-v1.9.41.zip",
+    "version": "v1.9.42",
+    "versionCode": 52,
+    "zipUrl": "https://github.com/gorkemgun/ksu-frida/releases/download/v1.9.42/KsuFrida-v1.9.42.zip",
     "changelog": "https://raw.githubusercontent.com/gorkemgun/ksu-frida/main/changelog.md"
 }
